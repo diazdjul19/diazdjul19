@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Diaz Djuliansyah, you can call me Diaz,<br>Currently, I work in a technology company in Jakarta<br>as a Software Engineer. I like to find out new things<br>in the world of technology both software and hardware
+Hello, I'm Diaz Djuliansyah, you can call me Diaz,<br>Currently, I work in a technology company in Jakarta<br>as a Software Engineer. I like to find out new things<br>in the world of technology both software and hardware.
 
 
 ## 🌐 Socials:
