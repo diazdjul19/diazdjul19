@@ -1,6 +1,5 @@
 # 💫 About Me:
-Since embarking on my career as a Web Developer in 2021, I have fully immersed myself in the world of developing and testing applications tailored to meet the specific needs of clients. Along this journey, I have contributed to various strategic projects that not only drive efficiency but also bring real innovation to the workplace.
-I possess an unbounded passion for creating software solutions that are not only functional but also make a tangible impact on users. By combining in-depth technical details with a strong understanding of business needs, I continue to evolve as an adaptive and results-oriented professional. Every project I undertake is an opportunity to innovate and create meaningful value for clients and end-users.
+The Software Engineer is experienced in designing, developing and testing applications with excellent time management, has more than 4 years of experience in computer science and software development, and has skills in network engineering, so as to support the technology needs in the work environment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diaz-djuliansyah-8343b9220/)
