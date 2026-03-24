@@ -1,11 +1,10 @@
-# 💫 About Me:
 Hi there! 👋 I'm **Diaz Djuliansyah**, a **Fullstack Engineer** with 6+ years of experience designing, developing, and maintaining production-grade applications. My roots are in network engineering, giving me a deep appreciation for system reliability, robust backend architecture, and seamless performance.
 
-- 🔭 Currently working as an **IT Developer Specialist** at **JavaMifi**, building intelligent automation systems integrated with major e-commerce platforms (Shopee, Tokopedia/TikTok, WooCommerce, Ecwid, Traveloka).
-- 🚀 **Recent Impact:** Built internal automation that eliminated **87% of manual order input** at JavaMifi, and developed **Master Logistics**, a web app integrated directly with the company's ERP.
-- 🏢 **Previous Experience:** Full Stack Engineer at **Jubelio** (2022–2025). Rebuilt the Jubelio Store platform using **Node.js & RabbitMQ**, cutting site creation time to under 15 minutes and accelerating product imports by 45%+.
-- 🌱 Co-Creator & Instructor at **SQLMaster** ([sqlmaster.id](https://sqlmaster.id)), an educational platform where I teach structured SQL classes.
-- ⚙️ **Core Focus:** Backend Architecture, API Integrations, Message Brokers (RabbitMQ), Workflow Automation (n8n), and Relational Databases.
+- Currently working as an **IT Developer Specialist** at **JavaMifi**, building intelligent automation systems integrated with major e-commerce platforms (Shopee, Tokopedia/TikTok, WooCommerce, Ecwid, Traveloka).
+- **Recent Impact:** Built internal automation that eliminated **87% of manual order input** at JavaMifi, and developed **Master Logistics**, a web app integrated directly with the company's ERP.
+- **Previous Experience:** Full Stack Engineer at **Jubelio** (2022–2025). Rebuilt the Jubelio Store platform using **Node.js & RabbitMQ**, cutting site creation time to under 15 minutes and accelerating product imports by 45%+.
+- Co-Creator & Instructor at **SQLMaster** ([sqlmaster.id](https://sqlmaster.id)), an educational platform where I teach structured SQL classes.
+- **Core Focus:** Backend Architecture, API Integrations, Message Brokers (RabbitMQ), Workflow Automation (n8n), and Relational Databases.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diaz-djuliansyah-8343b9220/)
